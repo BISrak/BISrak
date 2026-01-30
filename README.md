@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @BISrak/Phillip Corporon
+- 👋 Hi, I’m Phillip Corporon
+- My Online handle is @BISrak
 - 👀 I’m interested in game creation and software
 - 🌱 I’m currently keeping my skills up to date in C#, Javascript, Unity and Flutter/Dart
 - 📫 How to reach me phillipcorporon@hotmail.com or on discord @bisrak
