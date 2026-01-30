@@ -1,17 +1,10 @@
-- 👋 Hi, I’m @BISrak
-- 👀 I’m interested in game creation and programming
-- 🌱 I’m currently learning C sharp, python and godot/gdscript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @BISrak/Phillip Corporon
+- 👀 I’m interested in game creation and software
+- 🌱 I’m currently keeping my skills up to date in C#, Javascript, Unity and Flutter/Dart
 - 📫 How to reach me phillipcorporon@hotmail.com or on discord @bisrak
-- ⚡ Fun fact: Started programming in the beginning of 2024
+- ⚡ Fun fact: I started learning to program in the beginning of 2024 at NAIT
 
 <!---
 BISrak/BISrak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- 👋 Hi, I’m @PhillipCorporon, this is my college gibhub account
-- 👀 I’m interested in game creation and programming
-- 🌱 I’m currently learning C sharp, pythin and godot/gdscript
-- 💞️ I’m looking to collaborate on anything for college
-- 📫 How to reach me: phillipcorporon@hotmail.com or on discord @bisrak
-- ⚡ Fun fact: Started programming in the beginning of 2024
